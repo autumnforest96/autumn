@@ -176,7 +176,7 @@ body {
 }
 
 .page-footer a {
-  margin-left: 56px;
+  margin-left: 86px;
   color: inherit;
   text-decoration: none;
   background-repeat: no-repeat;
@@ -184,11 +184,11 @@ body {
 }
 
 .footer-email {
-  padding-left: 30px;
+  padding-left: 50px;
   background-image: url("img/icon-email-footer.svg");
 }
 
 .footer-phone {
-  padding-left: 25px;
+  padding-left: 50px;
   background-image: url("img/icon-phone-footer.svg");
 }
